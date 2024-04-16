@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kyu90002
 - 👀 I’m interested in building services for people.
-- 🌱 I’m currently learning structures and abstraction through Java class in OU
-- 💞️ I’m looking to collaborate on IOS app or web-apps.
+- 🌱 I’m currently studying at University of Oklahoma.
+- 💞️ I’m looking to collaborate on web-apps!
 - 📫 Send me an email! "2km4890@gmail.com"
 
 <!---
